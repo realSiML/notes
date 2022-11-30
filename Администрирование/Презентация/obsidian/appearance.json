@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "baseFontSize": 27,
+  "theme": "obsidian",
+  "translucency": false,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "cssTheme": "Atom"
+}

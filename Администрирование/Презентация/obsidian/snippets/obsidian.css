@@ -1,0 +1,35 @@
+body {
+    --file-line-width: 1000px;
+}
+
+p{
+  line-height: 1.4; /* change this value accordingly */
+  display: block;
+  padding-top: 15px;  /*change this value accordingly */
+  padding-bottom: 15px; /*change this value accordingly */
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+h1,h2,h3,h4,h5,h6{
+  padding-top: 15px;  
+  padding-bottom: 15px;
+}
+
+li{
+  line-height: 1.4;
+}
+
+li p{
+  padding-top: 0px;
+  padding-bottom: 12px;
+}
+
+img{
+  display: block;
+  margin: auto;
+}
