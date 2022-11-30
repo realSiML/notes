@@ -1,8 +1,6 @@
-- Изменить картинки на свои
-	- Заменить файлами ссылки на картинки
-- Добавить подпункты в содержание
-- Общая папка в сети
-	- Скачать и закинуть пакеты
+- Установить `shake-fs`
+
+https://launchpad.net/~un-brice/+archive/ubuntu/ppa/+files/shake-fs_1.1_amd64.deb
 
 https://itsfoss.com/free-up-space-ubuntu-linux/
 https://itsfoss.com/ccleaner-alternatives-ubuntu-linux/
